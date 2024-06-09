@@ -2701,7 +2701,7 @@ hr {
 @media (max-width: 575px) {
   .about-area1 .support-wrapper .left-content1 {
     width: 100%;
-    padding-left: 30px;
+    padding-left: 10px;
   }
 }
 .about-area1 .support-wrapper .left-content1 .about-icon {
@@ -5005,7 +5005,7 @@ hr {
   transition: all 0.3s;
 }
 .contact-info-container {
-    border: solid 1px #0000004a;
+    /* border: solid 1px #0000004a; */
     padding: 20px;
     border-radius: 10px;
     /* background-color: #000; */
